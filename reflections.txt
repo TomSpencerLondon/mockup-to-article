@@ -1,0 +1,27 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+<h1>My experience with web development!</h1>
+<h2>By Tom Spencer</h2>
+<h3>September 8, 2017</h3>
+
+This has been a challenging course so far but well organised. I particularly like the regular communication from tutors and I have a clear idea of what I want to achieve.
+The reason that I took this course was to learn how to write Javascript and also develop the knowledge to
+be able to build my own interactive CV so that I can attract prospective employers. I am keen to keep going until I get the work life balance and
+job satisfaction that I believe I can achieve from web development.
+
+The most difficult skills so far with this course have been developing the self reliance to be able to research topics and answer small
+problems on my own. I have had guidance from the udacity course notes but it is clear that the tasks are gradually becoming more
+challenging and there is a greater need for determination and self reliance in developing particular web strategies.
+
+The easiest part of the course has been watching the videos and following the explanations for basic HTML. On the other hand it has been
+more challenging to put this into practice within a project setting.
+
+I have taken careful note of the advice in the videos regarding looking at MDN pages to research HTML and Javascript and I have
+been quite impressed by the documentation which is quite extensive.
