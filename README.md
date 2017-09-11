@@ -1,1 +1,1 @@
-#mockup-to-artilce
+#mockup-to-article

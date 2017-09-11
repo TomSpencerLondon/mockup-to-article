@@ -9,7 +9,7 @@ You've learned a lot about web development so far. I want you to take a moment t
 Your response goes here!
 <h1>My experience with web development!</h1>
 <h2>By Tom Spencer</h2>
-<h3>September 8, 2017</h3>
+
 
 This has been a challenging course so far but well organised. I particularly like the regular communication from tutors and I have a clear idea of what I want to achieve.
 The reason that I took this course was to learn how to write Javascript and also develop the knowledge to
